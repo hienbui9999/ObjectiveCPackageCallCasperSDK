@@ -4,7 +4,7 @@ A sample ObjectiveC Package built base on the ObjectiveC package CasperObjective
 
 https://github.com/tqhuy2018/Casper-ObjectiveC-sdk
 
-This sample package do a very simple work of calling the "chain_get_state_root_hash" call, by calling the function from the CasperObjectiveCSDK, the provide this call as a function that other ObjectiveC Project/Package can call again.
+This sample package do a very simple work of calling the "chain_get_state_root_hash" RPC call from the CasperObjectiveCSDK, the provide this call as a function that other ObjectiveC Project/Package can call again.
 
 This is a package that is built as libary to provide functionality for other ObjectiveC App Project/Package to call.
 
