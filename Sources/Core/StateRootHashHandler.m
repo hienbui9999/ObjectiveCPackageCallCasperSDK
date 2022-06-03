@@ -24,6 +24,7 @@ int maxCounter = 50;
         timer = nil;
     }
 }
+//Sample call to get the state root hash, provided by the CasperObjectiveCSDK
 -(void) getStateRootHashWithCallID:(NSString*) callID {
     BlockIdentifier * bi = [[BlockIdentifier alloc] init];
     bi.blockType = USE_NONE;
